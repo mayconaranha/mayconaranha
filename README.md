@@ -1,16 +1,20 @@
-### Hi there 👋
+## Apresentation
+💻 Analyst MIS JR at Sitel Group
 
-<!--
-**mayconaranha/mayconaranha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Contact maicodob@gmail.com
 
-Here are some ideas to get you started:
+👨‍💻 I'm currently learning Data Science e programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social Media & Linkedin:
+
+[<img height="25m" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maycon-aranha-319b87193/).
+<img height="25m" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+
+
+[https://www.linkedin.com/in/maycon-aranha-319b87193/]
+[https://www.instagram.com/maicoaranha/]
+
+Linguagens e Ferramentas:
+
+<img height="50m" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height="50m" src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" />
