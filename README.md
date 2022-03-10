@@ -3,8 +3,6 @@
 
 💻 Analyst MIS JR at Sitel Group
 
-📫 Contact: maicodob@gmail.com
-
 👨‍💻 I'm currently learning Data Science e Programming.
 
 
