@@ -3,7 +3,7 @@
 
 💻 Analyst MIS JR at Sitel Group
 
-👨‍💻 I'm currently learning Data Science e Programming.
+👨‍💻 I'm currently learning Data Science and Programming.
 
 
 
