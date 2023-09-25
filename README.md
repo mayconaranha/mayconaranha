@@ -1,7 +1,7 @@
 ### Apresentation
 
 
-💻 Analyst MIS PLat Sitel Group
+💻 Analyst MIS PL at Sitel Group
 
 👨‍💻 I'm currently learning Data Science and Programming.
 
