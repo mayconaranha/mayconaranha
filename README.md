@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left"># SOCIAL MEDIA</p>
-
+<p align="left"># social media</p>
 ###
 
 <div align="left">
