@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋, Meu nome é: Maycon Aranha</h1>
-<h3 align="center">Data Analyst</h3>
+<h1 align="center">Olá 👋, Meu nome é Maycon Aranha</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayconaranha&label=Profile%20views&color=0e75b6&style=flat" alt="mayconaranha" /> </p>
 
