@@ -11,7 +11,7 @@
 
 - 📫 Como me contatar: <a href="maicodob@gmail.com">Gmail</a>
 
-- 📄Meu currículo: <a href="[maicodob@gmail.com](https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view)">CV</a>
+- 📄Meu currículo: <a href="https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view">CV</a>
 
 
 <h3 align="left">Connect with me:</h3>
