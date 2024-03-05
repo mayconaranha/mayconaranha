@@ -1,4 +1,6 @@
-<h1 align="center">Olá 👋, Meu nome é Maycon Aranha</h1>
+<h1 align="center">Olá, tudo bem? Meu nome é Maycon Aranha! 👋</h1>
+<h3 align="center">Apaixonado por transformar informações em inteligência acionável. .</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayconaranha&label=Profile%20views&color=0e75b6&style=flat" alt="mayconaranha" /> </p>
 
