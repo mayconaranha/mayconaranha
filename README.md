@@ -1,6 +1,8 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Maycon Aranha! 👋</h1>
 <h3 align="center">Apaixonado por transformar informações em inteligência acionável.</h3>
 
+
+
 - 🔭 Atualmente trabalho na: POT PROMO - Analista de BI
 
 - 🎓 Se aprofundando cada vez mais em: Data Science
