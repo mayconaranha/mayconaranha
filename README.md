@@ -1,18 +1,15 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Maycon Aranha! 👋</h1>
 <h3 align="center">Apaixonado por transformar informações em inteligência acionável.</h3>
 
+- 🔭 Atualmente trabalho na: POT PROMO - Analista de BI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayconaranha&label=Profile%20views&color=0e75b6&style=flat" alt="mayconaranha" /> </p>
+- 🎓 Se aprofundando cada vez mais em: Data Science
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayconaranha" alt="mayconaranha" /></a> </p>
-
-- 🔭 Atualmente trabalho na: **SPOT PROMO - Analista de BI**
-
-- 🌱 Estudando: **Data Science**
+- 💻 Conhecimentos em: Excel, Power BI, Bussiness Intelligence, Storytelling, SQL, ETL, Python, SSIS, Power Query e VBA.
 
 - 👨‍💻 Meu portfolio [https://github.com/mayconaranha](https://github.com/mayconaranha)
 
-- 📫 Como me contatar: **maicodob@gmail.com**
+- 📫 Como me contatar: maicodob@gmail.com
 
 - 📄Meu currículo: [https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view?usp=drive_link](https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view?usp=drive_link)
 
