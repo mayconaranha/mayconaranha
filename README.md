@@ -7,11 +7,12 @@
 
 - 💻 Conhecimentos em: Excel, Power BI, Bussiness Intelligence, Storytelling, SQL, ETL, Python, SSIS, Power Query e VBA.
 
-- 👨‍💻 Meu portfolio <a href="https://github.com/mayconaranha">Github</a>
+- 👨‍💻 Meu portfolio: <a href="https://github.com/mayconaranha">Github</a>
 
 - 📫 Como me contatar: <a href="maicodob@gmail.com">Gmail</a>
 
-- 📄Meu currículo: <a href="(https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view?usp=drive_link)">CV</a>
+- 📄Meu currículo: <a href="[maicodob@gmail.com](https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view)">CV</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
