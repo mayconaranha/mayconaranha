@@ -22,5 +22,7 @@
 <a href="mailto:maicodob@gmail.com?" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="mailto:maicodob@gmail.com?" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayconaranha&show_icons=true&locale=en" alt="mayconaranha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayconaranha&" alt="mayconaranha" /></p>
+<h1 align="left">Projetos pessoais:</h1>
+<h3 align="left">Projeto em Power BI, utilizando SQL, Python e Dax:</h3>
+<h2 align="center"></h2>
+- 🎯 <a href="https://github.com/mayconaranha">Análise</a>
