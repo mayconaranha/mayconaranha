@@ -3,7 +3,7 @@
 
 <h2 align="center"></h2>
 
-- 🔭 Atualmente trabalho na: POT PROMO - Analista de BI 
+- 🔭 Atualmente trabalho na: Spot Promo - Analista de BI 
 
 - 🎓 Se aprofundando cada vez mais em: Data Science
 
@@ -16,14 +16,11 @@
 - 📄Meu currículo: <a href="https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view">CV</a>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fale comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maycon-henrique-aranha-da-silva-319b87193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maycon-aranha-319b87193/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maycon-henrique-aranha-da-silva-319b87193/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/maycon-henrique-aranha-da-silva-319b87193/" height="30" width="40" /></a>
+<a href="mailto:maicodob@gmail.com?" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="mailto:maicodob@gmail.com?" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayconaranha&show_icons=true&locale=en" alt="mayconaranha" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayconaranha&" alt="mayconaranha" /></p>
