@@ -1,7 +1,8 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Maycon Aranha! 👋</h1>
 <h3 align="center">Apaixonado por transformar informações em inteligência acionável.</h3>
-<P></P>
+<P>
 <h5>
+  
 - 🔭 Atualmente trabalho na: POT PROMO - Analista de BI 
 
 - 🎓 Se aprofundando cada vez mais em: Data Science
@@ -13,7 +14,7 @@
 - 📫 Como me contatar: <a href="maicodob@gmail.com">Gmail</a>
 
 - 📄Meu currículo: <a href="https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view">CV</a>
-
+</h5></P>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
