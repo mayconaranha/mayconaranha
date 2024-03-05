@@ -1,17 +1,17 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Maycon Aranha! 👋</h1>
 <h3 align="center">Apaixonado por transformar informações em inteligência acionável.</h3>
 
-<h4>- 🔭 Atualmente trabalho na: POT PROMO - Analista de BI </h4>
+<h5>- 🔭 Atualmente trabalho na: POT PROMO - Analista de BI 
 
-<h4>- 🎓 Se aprofundando cada vez mais em: Data Science</h4>
+- 🎓 Se aprofundando cada vez mais em: Data Science
 
-<h4>- 💻 Conhecimentos em: Excel, Power BI, Bussiness Intelligence, Storytelling, SQL, ETL, Python, SSIS, Power Query e VBA.</h4>
+- 💻 Conhecimentos em: Excel, Power BI, Bussiness Intelligence, Storytelling, SQL, ETL, Python, SSIS, Power Query e VBA.
 
-<h4>- 👨‍💻 Meu portfolio [https://github.com/mayconaranha](https://github.com/mayconaranha) </h4>
+- 👨‍💻 Meu portfolio <a href="[url](https://github.com/mayconaranha)">Github</a> 
 
-<h4>- 📫 Como me contatar: maicodob@gmail.com</h4>
+- 📫 Como me contatar: maicodob@gmail.com
 
-<h4>- 📄Meu currículo: [https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view?usp=drive_link](https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view?usp=drive_link) </h4>
+- 📄Meu currículo: [https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view?usp=drive_link](https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
