@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalho na: Spot Promo - Analista de BI 
 
-- 🎓 Se aprofundando cada vez mais em: Data Science
+- 🎓 Me aprofundando cada vez mais em: Data Science
 
 - 💻 Conhecimentos em: Excel, Power BI, Bussiness Intelligence, Storytelling, SQL, ETL, Python, SSIS, Power Query e VBA.
 
