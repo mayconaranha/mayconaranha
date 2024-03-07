@@ -25,4 +25,4 @@
 <h1 align="left">Projetos pessoais:</h1>
 <h3 align="left">Projeto em Power BI, utilizando SQL, Python e Dax:</h3>
 <h2 align="center"></h2>
-- 🎯 <a href="https://github.com/mayconaranha">Análise</a>
+- 🎯 <a href="https://github.com/mayconaranha/Dashboard-Amazon">Dashboard Amazon</a>
