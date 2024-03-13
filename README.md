@@ -17,7 +17,7 @@
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maycon-aranha-319b87193/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/maycon-henrique-aranha-da-silva-319b87193/" height="30" width="40" /></a>
-<a href="mailto:maicodob@gmail.com?" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="mailto:maicodob@gmail.com?" height="30" width="40" /></a>
+<a href="mailto:maycon.aranha@outlook.com?" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="mailto:maicodob@gmail.com?" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Projetos pessoais:</h1>
