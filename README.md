@@ -1,4 +1,4 @@
-![image](https://github.com/mayconaranha/mayconaranha/assets/74373974/7ada3acd-c0f0-4b7c-aa44-d8c2d3e8dce9)<h1 align="center">Olá, tudo bem? Meu nome é Maycon Aranha! 👋</h1>
+<h1 align="center">Olá, tudo bem? Meu nome é Maycon Aranha! 👋</h1>
 <h3 align="center">Apaixonado por transformar informações em inteligência acionável.</h3>
 
 <h2 align="center"></h2>
