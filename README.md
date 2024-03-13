@@ -1,4 +1,4 @@
-<h1 align="center">Olá, tudo bem? Meu nome é Maycon Aranha! 👋</h1>
+![image](https://github.com/mayconaranha/mayconaranha/assets/74373974/7ada3acd-c0f0-4b7c-aa44-d8c2d3e8dce9)<h1 align="center">Olá, tudo bem? Meu nome é Maycon Aranha! 👋</h1>
 <h3 align="center">Apaixonado por transformar informações em inteligência acionável.</h3>
 
 <h2 align="center"></h2>
@@ -18,7 +18,7 @@
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maycon-henrique-aranha-da-silva-319b87193/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/maycon-henrique-aranha-da-silva-319b87193/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maycon-aranha-319b87193/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/maycon-henrique-aranha-da-silva-319b87193/" height="30" width="40" /></a>
 <a href="mailto:maicodob@gmail.com?" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="mailto:maicodob@gmail.com?" height="30" width="40" /></a>
 </p>
 
