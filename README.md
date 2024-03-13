@@ -11,8 +11,6 @@
 
 - 👨‍💻 Meu portfolio: <a href="https://github.com/mayconaranha">Github</a>
 
-- 📫 Como me contatar: <a href="email to: maycon.aranha@outlook.com">Gmail</a>
-
 - 📄Meu currículo: <a href="https://drive.google.com/file/d/1rH0kw-7MNyCv_HcI9WSDEondpg74Ethp/view">CV</a>
 
 
