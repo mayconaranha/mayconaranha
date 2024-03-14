@@ -11,7 +11,7 @@
 
 - 👨‍💻 Meu portfolio: <a href="https://github.com/mayconaranha">Github</a>
 
-- 📄Meu currículo: <a href="https://drive.google.com/file/d/174TPRcjkheElLLRP20tpNr5nfRWG_a0T/view?usp=drive_link">CV</a>
+- 📄 Meu currículo: <a href="https://drive.google.com/file/d/174TPRcjkheElLLRP20tpNr5nfRWG_a0T/view?usp=drive_link">CV</a>
 
 
 <h3 align="left">Fale comigo:</h3>
