@@ -3,7 +3,7 @@
 
 <h2 align="center"></h2>
 
-- 🔭 Atualmente trabalho na: Spot Promo - Analista de BI 
+- 🔭 Atualmente trabalho na: <img src="https://i.imgur.com/eVFaMaZ.png"> como Senior MIS - FP&A   
 
 - 🎓 Me aprofundando cada vez mais em: Data Science
 
