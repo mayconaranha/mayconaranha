@@ -18,7 +18,3 @@
 <a href="mailto:maycon.aranha@outlook.com?" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="mailto:maicodob@gmail.com?" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">Projetos pessoais:</h1>
-
-<h2 align="center"></h2>
-- 🎯 <a href="https://github.com/mayconaranha/Dashboard-Amazon">Dashboard Amazon</a>
