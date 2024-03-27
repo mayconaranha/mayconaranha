@@ -3,9 +3,7 @@
 
 <h2 align="center"></h2>
 
-- 🔭 Atualmente trabalho na: <img src="https://i.imgur.com/eVFaMaZ.png"> como Senior MIS - FP&A   
-
-- 🎓 Me aprofundando cada vez mais em dados.
+- 🔭 Atualmente trabalho na Funcional Health Tech como Senior MIS - FP&A   
 
 - 💻 Conhecimentos em: Excel, Power BI, Bussiness Intelligence, Storytelling, SQL, ETL, Python, SSIS, Power Query e VBA.
 
