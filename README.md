@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalho na Funcional Health Tech como Senior MIS - FP&A   
 
-- 💻 Conhecimentos em: Excel, Power BI, Bussiness Intelligence, Storytelling, SQL, ETL, Python, SSIS, Power Query e VBA.
+- 💻 Conhecimentos em: Excel, Power BI, SQL, ETL, Python, SSIS, Power Query, VSCode.
 
 - 👨‍💻 Meu portfolio: <a href="https://github.com/mayconaranha">Github</a>
 
