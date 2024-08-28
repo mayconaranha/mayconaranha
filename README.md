@@ -1,18 +1,18 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Maycon Aranha! 👋</h1>
 <h3 align="center">Apaixonado por transformar informações em inteligência acionável.</h3>
 
-<h2 align="center"></h2>
+<h5></h5>
 
-- 🔭 Atualmente trabalho no mercado livre como Senior em Business Intelligence. 
+<h5>- 🔭 Atualmente trabalho no mercado livre como Senior em Business Intelligence. </h5>
 
-- 💻 Conhecimentos em: 
-    Excel, Power BI, Looker e Tableau.
-    SQL Server, SnowflakeDB, Dbeaver e Google Bigquery.
-    ETL, Python, SSIS, Power Query e VSCode.
+<h5>- 💻 Conhecimentos em: </h5>
+<h5>    Excel, Power BI, Looker e Tableau.</h5>
+<h5>    SQL Server, SnowflakeDB, Dbeaver e Google Bigquery.</h5>
+<h5>    ETL, Python, SSIS, Power Query e VSCode.</h5>
 
-- 👨‍💻 Meu portfolio: <a href="https://github.com/mayconaranha">Github</a>
+<h5>- 👨‍💻 Meu portfolio: <a href="https://github.com/mayconaranha">Github</a>
 
-- 📄 Meu currículo: <a href="https://drive.google.com/file/d/174TPRcjkheElLLRP20tpNr5nfRWG_a0T/view?usp=drive_link">CV</a>
+<h5>- 📄 Meu currículo: <a href="https://drive.google.com/file/d/174TPRcjkheElLLRP20tpNr5nfRWG_a0T/view?usp=drive_link">CV</a>
 
 
 <h3 align="left">Fale comigo:</h3>
