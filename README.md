@@ -7,7 +7,7 @@
 
 <h5>- 💻 Conhecimentos em: </h5>
 <h5>    Excel, Power BI, Looker e Tableau.</h5>
-<h5>    SQL Server, SnowflakeDB, Dbeaver e Google Bigquery.</h5>
+<h5>    SQL Server, SnowflakeDB, Dbeaver e BigQ.</h5>
 <h5>    ETL, Python, SSIS, Power Query e VSCode.</h5>
 
 <h5>- 👨‍💻 Meu portfolio: <a href="https://github.com/mayconaranha">Github</a>
