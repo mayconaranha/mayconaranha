@@ -3,7 +3,7 @@
 
 <h5></h5>
 
-<h5>- 🔭 Atualmente trabalho no mercado livre como Senior em Business Intelligence. </h5>
+<h5>- 🔭 Atualmente trabalho no Mercado Livre como Senior Business Intelligence Developer. </h5>
 
 <h5>- 💻 Conhecimentos em: </h5>
 <h5>    Excel, Power BI, Looker e Tableau.</h5>
