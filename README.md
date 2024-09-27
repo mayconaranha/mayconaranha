@@ -2,7 +2,7 @@
 
 👨‍💻 **Senior Business Intelligence Developer**
 
-Apaixonado por transformar informações em inteligência acionável.
+Transformando informações em inteligência acionável.
 
 ---
 
@@ -22,7 +22,7 @@ Apaixonado por transformar informações em inteligência acionável.
 
 ## 🌟 Sobre Mim
 
-Sou um profissional dedicado à área de Business Intelligence, com ampla experiência em transformar dados brutos em insights valiosos para tomada de decisões. Minha paixão está em criar soluções que permitam às empresas compreenderem melhor seus negócios e otimizarem suas operações.
+Sou um profissional dedicado à área de Business Intelligence, com ampla experiência em transformar dados brutos em insights valiosos para tomada de decisões. Experiência em criar soluções que permitam às empresas compreenderem melhor seus negócios e otimizarem suas operações.
 
 ---
 
