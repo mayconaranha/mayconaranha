@@ -2,8 +2,6 @@
 
 👨‍💻 **Senior Business Intelligence Developer**
 
-Transformando informações em inteligência acionável.
-
 ---
 
 ## 🔭 Experiência Profissional
