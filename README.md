@@ -18,12 +18,6 @@
 
 ---
 
-## 🌟 Sobre Mim
-
-Sou um profissional dedicado à área de Business Intelligence e análise de dados, com ampla experiência em transformar dados brutos em insights valiosos para tomada de decisões. Experiência em criar soluções que permitam às empresas compreenderem melhor seus negócios e otimizarem suas operações.
-
----
-
 ## 📫 Contato
 
 Fique à vontade para entrar em contato comigo para discussões profissionais ou colaborações.
