@@ -6,7 +6,7 @@
 
 ## 🔭 Experiência Profissional
 
-- Atualmente trabalho no Mercado Livre como **Senior Business Intelligence Developer**.
+- **Senior Business Intelligence Developer** @ Mercado Livre.
 
 ---
 
