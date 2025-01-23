@@ -1,16 +1,14 @@
 # Maycon Aranha
 
-👨‍💻 **Senior Business Intelligence Developer**
-
 ---
 
-## 🔭 Experiência Profissional
+## Experiência Profissional
 
 - **Senior Business Intelligence Developer** @ Mercado Livre.
 
 ---
 
-## 💼 Habilidades Técnicas
+## Habilidades Técnicas
 
 - **Visualização de Dados:** Excel, Power BI, Looker, Tableau  
 - **Bancos de Dados:** SQL Server, SnowflakeDB, Dbeaver, BigQuery  
