@@ -1,9 +1,9 @@
 # Maycon Aranha
 
 ---
-## Experiência Profissional
+## Formação
 
-- **MBA Data Science and Analytics @ USP / Esalq** .
+- **MBA Data Science and Analytics - USP/Esalq** .
 
 ---
 ## Experiência Profissional
