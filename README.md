@@ -3,7 +3,7 @@
 ---
 ## Formação
 
-- **MBA Data Science and Analytics - USP/Esalq** .
+- **MBA in Data Science and Analytics - USP/Esalq**
 
 ---
 ## Experiência Profissional
