@@ -1,7 +1,11 @@
 # Maycon Aranha
 
 ---
+## Experiência Profissional
 
+- **MBA Data Science and Analytics @ USP / Esalq** .
+
+---
 ## Experiência Profissional
 
 - **Senior Business Intelligence Developer** @ Mercado Livre.
