@@ -94,26 +94,12 @@
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayconaranha&theme=github-dark&bg_color=0d1117&color=8b949e&line=6e7681&point=e6edf3&area=true&area_color=21262d&hide_border=false&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o" />
-</div>
-
----
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayconaranha/mayconaranha/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayconaranha/mayconaranha/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/mayconaranha/mayconaranha/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-*"Transformando dados em decisões estratégicas."*
 
 </div>
 
