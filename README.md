@@ -65,7 +65,6 @@
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Airflow](https://img.shields.io/badge/ETL-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
 </tr>
@@ -76,15 +75,26 @@
 ### :bar_chart: &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mayconaranha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconaranha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <a href="https://github.com/mayconaranha">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayconaranha&show_icons=true&theme=github_dark&border_color=1f6feb&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&rank_icon=github" />
+  </a>
+  <a href="https://github.com/mayconaranha">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconaranha&layout=compact&theme=github_dark&border_color=1f6feb&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayconaranha&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" />
+  <a href="https://github.com/mayconaranha">
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayconaranha&theme=github-dark-blue&border=1f6feb&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayconaranha&theme=github-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=false&custom_title=Atividade%20de%20Contribuicao" />
 </div>
 
 ---
