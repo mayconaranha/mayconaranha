@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Maycon%20Aranha&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Senior%20BI%20Developer%20%40%20Mercado%20Livre%20%7C%20Data%20Science%20%26%20Analytics&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=180&section=header&text=Maycon%20Aranha&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20BI%20Developer%20|%20Data%20Science%20and%20Analytics&descSize=16&descColor=c9d1d9&descAlignY=55&animation=fadeIn"/>
 
 <div align="center">
 
