@@ -10,17 +10,17 @@
 
 ---
 
-### :mortar_board: &nbsp; Formacao
+### :mortar_board: &nbsp; Formação
 
 **MBA in Data Science and Analytics** — USP/Esalq *(em andamento)*
 
 ---
 
-### :briefcase: &nbsp; Experiencia
+### :briefcase: &nbsp; Experiência
 
 **Senior Business Intelligence Developer** @ [Mercado Livre](https://www.mercadolivre.com.br/)
 
-> Desenvolvimento de solucoes de BI, pipelines de dados e dashboards estrategicos para suporte a decisoes de negocio em larga escala.
+> Desenvolvimento de soluções de BI, pipelines de dados e dashboards estratégicos para suporte a decisões de negócio em larga escala.
 
 ---
 
@@ -94,14 +94,14 @@
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayconaranha&theme=github-dark&bg_color=0d1117&color=8b949e&line=6e7681&point=e6edf3&area=true&area_color=21262d&hide_border=false&custom_title=Atividade%20de%20Contribuicao" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayconaranha&theme=github-dark&bg_color=0d1117&color=8b949e&line=6e7681&point=e6edf3&area=true&area_color=21262d&hide_border=false&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o" />
 </div>
 
 ---
 
 <div align="center">
 
-*"Transformando dados em decisoes estrategicas."*
+*"Transformando dados em decisões estratégicas."*
 
 </div>
 
